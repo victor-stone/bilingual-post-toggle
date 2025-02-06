@@ -1,0 +1,10 @@
+{
+  "name": "Bilingual Post Toggle",
+  "id": "bilingual-post-toggle",
+  "description": "Adds a language toggle (EN/ES) for bilingual blog posts formatted with '(((ESPAÑOL)))'.",
+  "author": "Victor Stone",
+  "version": "1.0",
+  "url": "https://lainfinita.net",
+  "javascript": ["bilingual-post-toggle.js"],
+  "license": "MIT"
+}
